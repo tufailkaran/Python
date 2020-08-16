@@ -1,0 +1,7 @@
+verbs = ["kayak", "cry", "walk", "eat", "drink", "fly"]
+
+ing = []
+for w in verbs:
+    x= w+"ing"
+    ing.append(x)
+print(ing)
