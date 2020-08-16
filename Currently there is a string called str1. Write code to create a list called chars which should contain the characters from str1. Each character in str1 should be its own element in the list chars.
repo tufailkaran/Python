@@ -1,0 +1,6 @@
+str1 = "I love python"
+
+chars = []
+for i in str1:
+    chars.append(i)
+
