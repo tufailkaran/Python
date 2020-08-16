@@ -1,0 +1,6 @@
+numbs = [5, 10, 15, 20, 25]
+newlist=[]
+for w in numbs:
+   x= w+5
+   newlist.append(x)
+print(newlist)
